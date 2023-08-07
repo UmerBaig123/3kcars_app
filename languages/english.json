@@ -1,0 +1,84 @@
+{
+        "translation":{
+            "changelang":"عربي",
+            
+            "Exclusive": "Exclusive",
+            "TyreLube":"Tyre & Lube" ,
+            "Services":"Services",
+            "ExploreServices":"Explore Our Services",
+
+            
+            "EnterDetails":"Enter Your Details",
+            "CompleteBooking":"Complete Booking",
+
+
+            "Congratulations":"Congratulations!",
+            "submitedsuccess":"You have successfully submited your service request",
+            "Back to Home":"Back to Home",
+
+
+            "pickDT":"Pick Date & Time",
+            "AvailableSlots":"Available Times",
+
+            "3kservice":"3k Car Services",
+            "homeservice":"Home service",
+            "Oil Change":"Oil Change",
+            "Tire Change":"Tire Change",
+            "Engine Flushing":"Engine Flushing",
+            "Engine Degreasing":"Engine Degreasing",
+            "Wheel Balancing":"Wheel Balancing",
+            "Wheel Rotation":"Wheel Rotation",
+            "Wheel Alignment":"Wheel Alignment",
+            "Caster & Camber":"Caster & Camber",
+            "Break Pads":"Break Pads",
+            "Induction Cleaning":"Induction Cleaning",
+            "Evaporator cleaning":"Evaporator cleaning",
+            "Battery change":"Battery change",
+            "Air filter":"Air filter",
+            "A/C filter":"A/C filter",
+
+            "Firstname":"First Name",
+            "Last Name":"Last Name",
+            "Email Address":"Email Address",
+            "Phone Number":"Phone Number",
+            "Car Make":"Car Make",
+            "Car Model":"Car Model",
+            "Car Number":"Car Number",
+            "Address":"Address",
+
+            "EmptyFN":"First Name canot be empty",
+            "EmptyLN":"Last Name canot be empty",
+            "EmptyED":"Email canot be empty",
+            "EmptyPN":"Phone Number canot be empty",
+            "EmptyCMake":"Car Make canot be empty",
+            "EmptyCMod":"Car Model canot be empty",
+            "EmptyCY":"Car Number canot be empty",
+            "EmptyAd":"Address canot be empty",
+            "EmptyAll":"Please fill all the details",
+
+            "dropdown":"Select Workshop",
+            "selectworkshoperror":"Please select a workshop",
+
+            "january":"January",
+            "february":"February",
+            "march":"March",
+            "april":"April",
+            "may":"May",
+            "june":"June",
+            "july":"July",
+            "august":"August",
+            "september":"September",
+            "october":"October",
+            "november":"November",
+            "december":"December",
+
+            "monday":"Mon",
+            "tuesday":"Tue",
+            "wednesday":"Wed",
+            "thursday":"Thu",
+            "friday":"Fri",
+            "saturday":"Sat",
+            "sunday":"Sun"
+
+        }
+}

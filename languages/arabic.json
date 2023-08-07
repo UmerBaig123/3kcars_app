@@ -1,0 +1,84 @@
+{
+    "translation":{
+        "changelang":"English",
+
+        "Exclusive": "حصري",
+        "TyreLube":"الإطارات والزيوت",
+        "Services":"خدمات",
+        "ExploreServices":"اكتشف خدماتنا",
+
+        
+        "EnterDetails":"أدخل التفاصيل الخاصة بك",
+        "CompleteBooking":"أكمل حجزك",
+
+
+        "Congratulations":"تهانينا!",
+        "submitedsuccess":"لقد نجحت في تقديم طلب الخدمة الخاص بك",
+        "Back to Home":"العودة إلى الصفحة الرئيسية",
+
+
+        "pickDT":"اختر التاريخ والوقت",
+        "AvailableSlots":"الأماكن المتوفرة",
+
+        "3kservice":"3k لخدمات السيارات",
+        "homeservice":"خدمة منزلية",
+        "Oil Change":"تغيير زيت",
+        "Tire Change":"تغيير الاطارات",
+        "Engine Flushing":"تنظيف المحرك من الداخل",
+        "Engine Degreasing":"تنظيف المحرك من الخارج",
+        "Wheel Balancing":"ترصيص الاطارات",
+        "Wheel Rotation":"تدوير الاطارات",
+        "Wheel Alignment":"موازنة العجلات",
+        "Caster & Camber":"تعديل الزوايا الداخلية والخارجية للإطارات",
+        "Break Pads":"الفرامل",
+        "Induction Cleaning":"تنظيف حاقن الوقود",
+        "Evaporator cleaning":"تنظيف المبخر",
+        "Battery change":"تغيير البطارية",
+        "Air filter":"فلتر الهواء",
+        "A/C filter":"فلتر المكيف",
+
+        "Firstname":"الاسم الاول",
+        "Last Name":"الاسم الأخير",
+        "Email Address":"عنوان البريد الالكترونى",
+        "Phone Number":"رقم الهاتف",
+        "Car Make":"صنع السيارة",
+        "Car Model":"طراز السيارة",
+        "Car Number":"رقم السياره",
+        "Address":"تبوك",
+
+        "EmptyFN":"لا يمكن أن يكون الاسم الأول فارغًا",
+        "EmptyLN":"لا يمكن أن يكون الاسم الأخير فارغًا",
+        "EmptyED":"لا يمكن أن يكون البريد الإلكتروني فارغًا",
+        "EmptyPN":"لا يمكن أن يكون رقم الهاتف فارغًا",
+        "EmptyCMake":"لا يمكن ترك السيارة فارغة",
+        "EmptyCMod":"لا يمكن أن يكون طراز السيارة فارغًا ",
+        "EmptyCY":"للا يمكن أن يكون رقم السيارة فارغًا",
+        "EmptyAd":"لا يمكن أن يكون العنوان فارغًا",
+        "EmptyAll":"من فضلك املأ كل التفاصيل",
+
+        "dropdown":"اختار الفرع",
+        "selectworkshoperror":"الرجاء تحديد ورشة عمل",
+        
+        "january":"كَانُون ٱلثَّانِي",
+        "february":"شُبَاط",
+        "march":"آذَار",
+        "april":"نَيْسَان",
+        "may":"أَيَّار",
+        "june":"حَزِيرَان", 
+        "july":"تَمُّوز",
+        "august":"آب",
+        "september":"أَيْلُول",
+        "october":"تِشْرِين ٱلْأَوَّل",
+        "november":"تِشْرِين ٱلثَّانِي",
+        "december":"كَانُون ٱلْأَوَّل",
+
+        "monday":"إثنين",
+        "tuesday":"ثلاثاء",
+        "wednesday":"أربعاء",
+        "thursday":"خميس",
+        "friday":"جمعة",
+        "saturday":"سبت",
+        "sunday":"أحد",
+        "ssunday":"أحد"
+    }
+}
